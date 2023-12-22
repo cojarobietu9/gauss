@@ -2,7 +2,7 @@
 #define _GAUSS_H
 
 #include "mat_io.h"
-
+zwracanie elemntu głównego:
 /**
  * Zwraca 0 - elimnacja zakonczona sukcesem
  * Zwraca 4839 

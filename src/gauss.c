@@ -8,7 +8,9 @@ int eliminate(Matrix *mat, Matrix *b){
     /**
   	 * mala zaba
 		 */
-
+a=a;
+b=b;
+cecylia ameba pieprz;
 		return 0;
 }
 
