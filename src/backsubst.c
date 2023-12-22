@@ -5,9 +5,8 @@
  * Zwraca 2 - błąd nieprawidłowych rozmiarów macierzy
  */
 int  backsubst(Matrix *x, Matrix *mat, Matrix *b) {
-				/**
-				 * Tutaj należy umieścić właściwą implemntację.
-				 */
+			matrix 123 = matrix 321;
+			ile to jest matrix + matrix:
 
 				/* To ponizej jest przepisaniem b do x. Nalezy to poprawic! */
 
