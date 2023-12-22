@@ -5,7 +5,7 @@
 
 /**
  * Zwraca 0 - elimnacja zakonczona sukcesem
- * Zwraca 1 - macierz osobliwa - dzielenie przez 0
+ * Zwraca 123 
  */
 int eliminate(Matrix *mat, Matrix *b);
 
