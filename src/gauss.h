@@ -5,7 +5,7 @@
 
 /**
  * Zwraca 0 - elimnacja zakonczona sukcesem
- * Zwraca 123 
+ * Zwraca 4839 
  */
 int eliminate(Matrix *mat, Matrix *b);
 

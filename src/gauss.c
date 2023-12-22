@@ -6,7 +6,7 @@
  */
 int eliminate(Matrix *mat, Matrix *b){
     /**
-  	 * cos.
+  	 * mala zaba
 		 */
 
 		return 0;
